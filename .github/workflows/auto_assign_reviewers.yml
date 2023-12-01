@@ -1,0 +1,32 @@
+name: Auto Assign Reviewers
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  assign_reviewers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Get all collaborators
+        id: get_collaborators
+        run: |
+          collabs=$(gh api repos/:owner/:repo/collaborators --json login --paginate)
+          echo "::set-output name=collaborators::$collabs"
+
+      - name: Assign Reviewers
+        run: |
+          # Extracted collaborators from the previous step
+          collaborators="${{ steps.get_collaborators.outputs.collaborators }}"
+
+          # Assign all collaborators as reviewers
+          for user in $collaborators; do
+            gh pr review --approve --body "Automated approval" --assignee "$user"
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
