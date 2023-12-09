@@ -16,7 +16,7 @@ jobs:
       - name: Get all collaborators
         id: get_collaborators
         run: |
-          collabs=$(gh api repos/:owner/:repo/collaborators --json login --paginate)
+          collabs=$(gh api repos/:owner/:repo/collaborators login --paginate)
           echo "::set-output name=collaborators::$collabs"
 
       - name: Assign Reviewers
