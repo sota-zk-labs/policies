@@ -19,3 +19,4 @@ The policies documented herein are the result of collective agreement, and any a
 - **Programming:** Discover how we code by referring to [Programming.md](programming.md).
 
 We encourage active participation and collaboration in shaping and refining these policies. Your input is valuable, and the democratic process of proposing changes ensures that our guidelines remain relevant and effective. Thank you for your commitment to our collective success.
+a
