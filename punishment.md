@@ -1,9 +1,14 @@
 # PUNISHMENT POLICY
 
-## Purpose
-The primary objective of this policy is to ensure adherence to established rules within our team. 
+## Bank account
+- **Bank:** Cake
+- **Account number:** 0333888648
+- **Holder:** Nguyen Thanh Son
 
-These penalties, in the form of monetary fines, serve as a _gentle_ reminder for individuals who fail to adhere to the defined rules. 
+## Purpose
+The primary objective of this policy is to ensure adherence to established rules within our team.
+
+These penalties, in the form of monetary fines, serve as a _gentle_ reminder for individuals who fail to adhere to the defined rules.
 All funds accumulated throughout each month will be allocated towards a team-related purchase at the end of the month.
 
 ## What is X?
@@ -12,10 +17,12 @@ X represents the number of instances an individual violates a specific rule with
 ## Penalty Structure
 The following penalties are in place for rule violations:
 
-- **Failed to join meeting on time:** X * 25K
-- **Failed to prepare before meetings:** X * 25K
-- **Failed to notify the team before sudden leave (at least 1 day notice):** X * 100K
-- **Failed to adhere to the programming convention:** X * (TBD)
+- **Failed to join the meeting on time:** :coffee: * X
+- **Failed to prepare before meetings:** :coffee: * X
+- **Failed to notify the team before a sudden leave (at least 1 day notice):** :coffee::coffee: * X
+- **Failed to adhere to the programming convention:** :coffee: * X (TBD)
+
+Notes: Use :coffee: as the unit so that we don't need to redefine this in the future due to inflation. :coffee: = 30K with the current price.
 
 These fines aim to emphasize the importance of punctuality, preparation, and communication within our team.
 
