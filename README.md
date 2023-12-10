@@ -4,7 +4,7 @@ This repository serves as a centralized hub for our agreed-upon policies, embody
 The policies documented herein are the result of collective agreement, and any additions or removals can be proposed through the creation of a new Pull Request (PR), subject to approval by other team members.
 
 ## The bible
-[the_bible.md](the_bible.md)
+[the_bible.md](bible/README.md)
 
 ## Policy Categories
 
