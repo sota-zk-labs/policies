@@ -1,4 +1,5 @@
 # PUNISHMENT POLICY
+[Note](https://docs.google.com/spreadsheets/d/1nc1oUmABtBJZWAF-iGjJNmUItC6HeZmg7q7HYxObYhA/edit?usp=sharing)
 
 ## Bank account
 - **Bank:** Cake
@@ -18,7 +19,7 @@ X represents the number of instances an individual violates a specific rule with
 The following penalties are in place for rule violations:
 
 - **Failed to join the meeting on time:** :coffee: * X
-- **Failed to prepare before meetings:** :coffee: * X
+- **Failed to prepare before meetings (i.e. document your work in the chat [meetings](meetings.md)):** :coffee: * X
 - **Failed to notify the team before a sudden leave (at least 1 day notice):** :coffee::coffee: * X
 - **Failed to adhere to the programming convention:** :coffee: * X (TBD)
 
