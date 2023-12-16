@@ -1,6 +1,6 @@
 # GENERAL POLICIES
 
-For more detailed information on our policies and consequences for non-compliance, please refer to [punishment.md](punishment.md).
+For more detailed information on our policies and consequences for non-compliance, please refer to [punishment](punishment.md).
 
 **Guidelines:**
 

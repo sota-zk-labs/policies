@@ -1,12 +1,16 @@
 # MEETINGS GUIDELINES
 
-## Daily Meeting
+## Daily Meeting (At 9:30 AM)
 
 ### Agenda
 
 - [ ] Share your accomplishments from the previous day.
 - [ ] Outline your plans for today.
 - [ ] Any additional points or concerns to address?
+
+### Record Your Daily Meetings
+
+You MUST document your work in the Discord `daily meetings` channel before joining the meeting. This is to ensure that you have prepared yourself prior to the meeting or to provide information in case you couldn't join.
 
 ## Weekly Meeting
 
