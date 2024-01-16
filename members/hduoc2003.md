@@ -18,7 +18,7 @@
 
 ### For New Members
 
-Hello everyone, this is Dược. Working hard to buy things without looking at the price.
+Hello everyone, this is Dược. Workinging hard to buy things without looking at the price.
 
 ### For Our Team
 
