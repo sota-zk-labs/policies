@@ -18,7 +18,7 @@
 
 ### For New Members
 
-Hello everyone, this is Dược. Work hard to buy things without looking at the price.
+Hello everyone, this is Dược. Working hard to buy things without looking at the price.
 
 ### For Our Team
 
@@ -28,7 +28,7 @@ Hello everyone, this is Dược. Work hard to buy things without looking at the 
 ### If You Want to Hear, I Could Tell You
 
 - Watching film
-- Learn something new
+- Learning something new
 - Money, money, money
 
 ### In a Rainy Day, You Could Make Me Smile By
