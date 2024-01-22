@@ -10,7 +10,8 @@
 
 ### Record Your Daily Meetings
 
-You MUST document your work in the Discord `daily meetings` channel before joining the meeting. This is to ensure that you have prepared yourself prior to the meeting or to provide information in case you couldn't join.
+You MUST document your work in the Discord `daily meetings` channel before joining the meeting. This is to ensure that
+you have prepared yourself prior to the meeting or to provide information in case you couldn't join.
 
 ## Weekly Meeting
 
@@ -23,7 +24,15 @@ You MUST document your work in the Discord `daily meetings` channel before joini
     - [ ] Identify successes and positive outcomes.
     - [ ] Highlight areas that require change or improvement.
 
+## Monthly One-on-One Check-in Meeting
+
+This meeting allows the team leader to check in with each team member individually. It provides a safe space for sharing
+thoughts and feelings about work and the team. The leader will listen to feedback, offer support, and share
+observations.
+
+---
 These meeting guidelines are designed to facilitate efficient communication, planning, and reflection within the team.
 Ensure active participation and engagement during discussions to contribute to our collective progress. Adjustments or
 additional agenda items can be proposed through the standard process of creating a new Pull Request (PR) for team
 approval. Thank you for your commitment to productive and collaborative meetings.
+
