@@ -33,7 +33,7 @@ Hello everyone, I am Son. I hope that you will find yourself well in our team. B
 
 ### In a Rainy Day, You Could Make Me Smile By
 
-- Giving me a candy or anything
+- Giving me a candy or anything.
 
 ## Reviews
 
