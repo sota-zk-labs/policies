@@ -14,6 +14,6 @@ This is a list of whoever contributed to this team.
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| ![sonntuet1997.png](https://avatars.githubusercontent.com/u/33181397) [sonntuet1997.md](sonntuet1997.md) | ![ktokto313.png](https://avatars.githubusercontent.com/u/57142191) [ktokto313.md](ktokto313.md) | ![thuan2172001.png](https://avatars.githubusercontent.com/u/62707901) [thuan2172001.md](thuan2172001.md) | ![new_member.png](images/new_member.png) [new_member.md](new_member.md) |
+| ![sonntuet1997.png](https://avatars.githubusercontent.com/u/33181397) [sonntuet1997.md](sonntuet1997.md) | ![ktokto313.png](https://avatars.githubusercontent.com/u/57142191) [ktokto313.md](ktokto313.md) | ![thuan2172001.png](https://avatars.githubusercontent.com/u/62707901) [thuan2172001.md](thuan2172001.md) | ![hduoc200.png](https://avatars.githubusercontent.com/hduoc2003) [hduoc2003.md](hduoc2003.md) |
 | ![vanhger.png](https://avatars.githubusercontent.com/u/71112028) [vanhger.md](vanhger.md) | ![khoi2109.png](https://avatars.githubusercontent.com/u/48615950) [khoi2109.md](khoi2109.md) | ![haipro287.png](https://avatars.githubusercontent.com/u/17197951) [haipro287.md](haipro287.md) | ![tranduy1dol.png](https://avatars.githubusercontent.com/u/124806253) [tranduy1dol.md](tranduy1dol.md) |
 |  ![draply.png](https://avatars.githubusercontent.com/u/74479681) [draply.md](draply.md) | ![thanhsondeptrai.png](https://avatars.githubusercontent.com/u/69808662?v=4) [thanhsondeptrai243.md](thanhsondeptrai243.md) |  |  |
