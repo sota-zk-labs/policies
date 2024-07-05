@@ -41,6 +41,7 @@ Hello everyone, this is Harry. I hope that you will find yourself well in our te
 
 ## Reviews
 
-### [Review Date and/or Reviewer Name]
+### LKT - 05/07/2024
 
-- [Review content goes here.]
+- **EN**: A pro, literally. He seem to be able to help you take over the world if you are ready. He is always full of creative and out-of-the-way idea which most of the time really work out in the end.
+- **VN**: Một người anh có kĩ năng ở một tầm khác so với mọi người. Cảm tưởng như anh Sơn có thể giúp bạn biến mong muốn sự nghiệp trong ngành IT của mình thành hiện thực. Luôn đưa ra những ý tưởng khác người nhưng phần lớn cuối cùng đều khả thi.

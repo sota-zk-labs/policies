@@ -4,7 +4,7 @@
 
 ## Position
 
-- Intern (12/2023 - Now)
+- Intern (12/2023 - 6/2024)
 
 ## Basic Info
 
