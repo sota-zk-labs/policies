@@ -34,6 +34,7 @@
 
 ## Reviews
 
-### [Review Date and/or Reviewer Name]
+### LKT - 05/07/2024
 
-- [Review content goes here.]
+- **EN**: He is a good colleague that you want to work with. Basically, he is straight forward and will be ready to read your code no matter how bad it was then roast you of what you did wrong.
+- **VN**: Một người anh rất tốt trong công việc. Sẵn sàng sấy bạn để bạn làm tốt hơn.
