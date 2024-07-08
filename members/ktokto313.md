@@ -18,7 +18,8 @@
 
 ### For New Members
 
-Hello everyone, this is Toàn. I always hear they say "Teamwork is dreamwork" and I do believe it is true. Therefore, let's cooperate and make the "dreamwork" come true.
+Hello everyone, this is Toàn. I always hear they say "Teamwork is dreamwork" and I do believe it is true. Therefore, let's cooperate
+and make the "dreamwork" come true.
 
 ### For Our Team
 
@@ -38,6 +39,9 @@ I am rather an introvert, so I could hear if you want to chitchat about somethin
 
 ## Reviews
 
-### [Review Date and/or Reviewer Name]
+### Steve Nguyen - 07/08/2024
 
-- [Review content goes here.]
+- **EN**: He has a solid foundation and good thinking in programming. He learns new and challenging concepts quickly. Being so young,
+  he has many opportunities for personal development in the future
+- **VN**: Các kiến thức nền tảng và tư duy về lập trình khá tốt. Có khả năng học hỏi nhanh các vấn đề mới và khó. Vì còn rất trẻ nên có
+  nhiều cơ hội để phát triển bản thân sau này. 
