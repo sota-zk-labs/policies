@@ -4,15 +4,15 @@
 
 ## Position
 
-- Dev (31/01/2024 - Now)
+- Dev (31/01/2024 - 08/07/2024)
 
 ## Basic Info
 
-- **DoB:** 24/03/2002
+- **DoB:** 2002
 - **Gender:** Male
-- **Phone number:** 0982603821
+- **Phone number:** 
 - **Email:** thanhsondeptrai243@gmail.com
-- **Facebook:** [Son's Facebook](https://www.facebook.com/nts243)
+- **Facebook:** [Son's Facebook]()
 
 ## Intro
 
