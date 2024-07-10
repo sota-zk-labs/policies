@@ -3,7 +3,7 @@
 ![](https://avatars.githubusercontent.com/u/74479681)
 
 ## Position 
-- Intern (12/2023 - Now)
+- Member (12/2023 - Now)
 ## Basic Info
 - DoB: 06/10/2002
 - Gender: Male
